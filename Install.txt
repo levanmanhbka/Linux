@@ -1,0 +1,2 @@
+sudo apt-get purge bcmwl-kernel-source
+add ->> go to driver wifi
